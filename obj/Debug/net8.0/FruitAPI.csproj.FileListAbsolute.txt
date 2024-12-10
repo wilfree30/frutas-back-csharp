@@ -36,3 +36,4 @@ C:\Users\wrojol\OneDrive - Gobierno del Estado de Baja California\dotnet\frutas\
 C:\Users\wrojol\OneDrive - Gobierno del Estado de Baja California\dotnet\frutas\obj\Debug\net8.0\FruitAPI.pdb
 C:\Users\wrojol\OneDrive - Gobierno del Estado de Baja California\dotnet\frutas\obj\Debug\net8.0\FruitAPI.genruntimeconfig.cache
 C:\Users\wrojol\OneDrive - Gobierno del Estado de Baja California\dotnet\frutas\obj\Debug\net8.0\ref\FruitAPI.dll
+C:\Users\wrojol\OneDrive - Gobierno del Estado de Baja California\dotnet\frutas\obj\Debug\net8.0\FruitAPI.sourcelink.json
